@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Jonathan's Portfolio",
     type: "website",
-    url: "https://atongjonathan.github.io/website/",
+    url: "https://atongjonathan.github.io/",
   },
 };
 
