@@ -31,15 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/atongjonathan",
@@ -220,6 +211,15 @@ const certifications = {
       color_code: "#a6ddf5",
     },
     {
+      title: "Computer Packages",
+      subtitle: "- GoatMentor Training",
+      logo_path: "redeemed.jpg",
+      certificate_link:
+        "https://drive.google.com/file/d/1FXljXHNlDwxAF9sFq7IDbLj4r3lBvOQZ/view?usp=sharing",
+      alt_name: "ComputerPackages",
+      color_code: "#1f3a67",
+    },
+    {
       title: "GoatMentor",
       subtitle: "- GoatMentor Training",
       logo_path: "goatmentor.jpeg",
@@ -244,14 +244,14 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Information Technology Point of Sale (P.O.S.)",
+          company: "Tile & Carpet Centre Ltd",
+          company_url: "https://tileandcarpet.co.ke/",
+          logo_path: "tandc.jpeg",
+          duration: "June 2023 - Aug 2023",
+          location: "Parkside Towers, Mombasa Road",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Employed Microsoft Dynamics AX expertise to streamline inventory management, sales operations, and record-keeping for enhanced efficiency.Proactively addressed technical concerns, delivering comprehensive solutions at the Point of Sale, resulting in improved customer experiences and heightened satisfaction.",
           color: "#0879bf",
         },
       ],
@@ -260,34 +260,34 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Software Developer Intern",
+          company: "SparePap Ltd.",
+          company_url: "https://sparepap.com/",
+          logo_path: "sparepap.png",
+          duration: "Sept 2023 - Nov 2023",
+          location: "Parklands, Nairobi",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Developing and maintaining the platform's software, contributing to the implementation of new features, bug fixes, and overall system enhancements. Ccollaborating with the development team to implement new features, troubleshoot issues, and enhance the overall functionality of the company website.",
           color: "#000000",
         },
       ],
     },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-          color: "#4285F4",
-        },
-      ],
-    },
+    // {
+    //   title: "Volunteerships",
+    //   experiences: [
+    //     {
+    //       title: "Google Explore ML Facilitator",
+    //       company: "Google",
+    //       company_url: "https://about.google/",
+    //       logo_path: "google_logo.png",
+    //       duration: "June 2019 - April 2020",
+    //       location: "Hyderabad, Telangana",
+    //       description:
+    //         "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+    //       color: "#4285F4",
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -300,9 +300,9 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  title: "Bots",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
+    "I have worked on and deployed a few bots of my own to solve some basic automation tasks.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -310,11 +310,10 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "RSS Poster",
+      createdAt: "2023-03-06T16:26:54Z",
+      description: "Automatically post articles to a channel from RSS feeds",
+      url: "https://t.me/sg_gpt_bot",
     },
   ],
 };
@@ -328,10 +327,10 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Hobby",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "For individual fundamental empowerment, I like to post news articles that create awareness on reader on what is going on in the world.",
+    link: "https://t.me/citizentvdigital",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
