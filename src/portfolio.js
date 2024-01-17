@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Atong Jonathan",
-  logo_name: "JoonathanAtong",
+  logo_name: "JonathanAtong",
   nickname: "SG✨",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable web solutions that make an impact.",
@@ -212,7 +212,7 @@ const certifications = {
     },
     {
       title: "Computer Packages",
-      subtitle: "- GoatMentor Training",
+      subtitle: "- Redeemed Center",
       logo_path: "redeemed.jpg",
       certificate_link:
         "https://drive.google.com/file/d/1FXljXHNlDwxAF9sFq7IDbLj4r3lBvOQZ/view?usp=sharing",
@@ -251,7 +251,7 @@ const experience = {
           duration: "June 2023 - Aug 2023",
           location: "Parkside Towers, Mombasa Road",
           description:
-            "Employed Microsoft Dynamics AX expertise to streamline inventory management, sales operations, and record-keeping for enhanced efficiency.Proactively addressed technical concerns, delivering comprehensive solutions at the Point of Sale, resulting in improved customer experiences and heightened satisfaction.",
+            "Employed Microsoft Dynamics AX expertise to streamline inventory management, sales operations, and record-keeping for enhanced efficiency. Proactively addressed technical concerns, delivering comprehensive solutions at the Point of Sale, resulting in improved customer experiences and heightened satisfaction.",
           color: "#0879bf",
         },
       ],
@@ -309,7 +309,7 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      id: "",
       name: "RSS Poster",
       createdAt: "2023-03-06T16:26:54Z",
       description: "Automatically post articles to a channel from RSS feeds",
