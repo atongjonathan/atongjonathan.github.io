@@ -194,7 +194,7 @@ const certifications = {
   certifications: [
     {
       title: "Web Development Certification",
-      subtitle: "- MTF",
+      subtitle: "- MTF School",
       logo_path: "MTF.png",
       certificate_link:
         "https://drive.google.com/file/d/15fEtX-PJZDytGC-FSkl8NqBfQs5lRFnG/view",
@@ -228,6 +228,24 @@ const certifications = {
       alt_name: "GoatMentor",
       color_code: "#191717",
     },
+    {
+      title: "Complete Responsive Web Development",
+      subtitle: "- Creative Online School",
+      logo_path: "creative.jpg",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-7f89ce7f-792e-43f3-9369-289f05b496b6/",
+      alt_name: "Creative Online School",
+      color_code: "#191717",
+    },
+    // {
+    //   title: "Complete Responsive Web Development",
+    //   subtitle: "- Creative Online School",
+    //   logo_path: "creative.jpg",
+    //   certificate_link:
+    //     "https://www.udemy.com/certificate/UC-7f89ce7f-792e-43f3-9369-289f05b496b6/",
+    //   alt_name: "Creative Online School",
+    //   color_code: "#191717",
+    // },
   ],
 };
 
