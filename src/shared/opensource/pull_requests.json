@@ -2,6 +2,531 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOLQLbKs51Sptm",
+      "title": "Canvas",
+      "url": "https://github.com/atongjonathan/SGBot/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-07-13T13:10:02Z",
+      "number": 7,
+      "changedFiles": 10,
+      "additions": 277,
+      "deletions": 1844,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLQLbKs51SpXm",
+      "title": "fix; lyrics error ",
+      "url": "https://github.com/atongjonathan/SGBot/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-07-13T13:08:54Z",
+      "number": 6,
+      "changedFiles": 2,
+      "additions": 17,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn850kCkK",
+      "title": "feat: vercel",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-07-05T19:51:42Z",
+      "number": 7,
+      "changedFiles": 6,
+      "additions": 59,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL9YbQs50eT4N",
+      "title": "feat: User Roles",
+      "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-07-04T19:33:53Z",
+      "number": 4,
+      "changedFiles": 29,
+      "additions": 627,
+      "deletions": 274,
+      "baseRepository": {
+        "name": "peri-V-0.0.0.1",
+        "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
+          "login": "Peri-Bloom",
+          "url": "https://github.com/Peri-Bloom"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL9YbQs5xOfTG",
+      "title": "feat: custom changes",
+      "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-06-02T16:46:55Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 16,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "peri-V-0.0.0.1",
+        "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
+          "login": "Peri-Bloom",
+          "url": "https://github.com/Peri-Bloom"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL9YbQs5xOVPw",
+      "title": "feat: start",
+      "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-06-02T15:09:19Z",
+      "number": 2,
+      "changedFiles": 12,
+      "additions": 196,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "peri-V-0.0.0.1",
+        "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
+          "login": "Peri-Bloom",
+          "url": "https://github.com/Peri-Bloom"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLQLbKs5xONiW",
+      "title": "Aws",
+      "url": "https://github.com/atongjonathan/SGBot/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-06-02T13:55:52Z",
+      "number": 5,
+      "changedFiles": 3,
+      "additions": 6,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLQLbKs5w9pG-",
+      "title": "Aws",
+      "url": "https://github.com/atongjonathan/SGBot/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-30T06:04:19Z",
+      "number": 4,
+      "changedFiles": 4,
+      "additions": 16,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL9YbQs5wzXn_",
+      "title": "fix: responsivity",
+      "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-28T19:23:41Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 12,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "peri-V-0.0.0.1",
+        "url": "https://github.com/Peri-Bloom/peri-V-0.0.0.1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
+          "login": "Peri-Bloom",
+          "url": "https://github.com/Peri-Bloom"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKggxfM5wgS8Z",
+      "title": "merge conflict",
+      "url": "https://github.com/atongjonathan/Spotify-bot/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-24T19:32:42Z",
+      "number": 5,
+      "changedFiles": 28,
+      "additions": 1696,
+      "deletions": 117,
+      "baseRepository": {
+        "name": "Spotify-bot",
+        "url": "https://github.com/atongjonathan/Spotify-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLQLbKs5v389j",
+      "title": "feat: Clean logs after send",
+      "url": "https://github.com/atongjonathan/SGBot/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-18T21:55:58Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLQLbKs5v3724",
+      "title": "Decorators",
+      "url": "https://github.com/atongjonathan/SGBot/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-18T21:30:55Z",
+      "number": 2,
+      "changedFiles": 3,
+      "additions": 35,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLwEp585vKZoG",
+      "title": "initial commit",
+      "url": "https://github.com/Peri-Bloom/periv1/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-11T15:33:34Z",
+      "number": 1,
+      "changedFiles": 466,
+      "additions": 1,
+      "deletions": 37008,
+      "baseRepository": {
+        "name": "periv1",
+        "url": "https://github.com/Peri-Bloom/periv1",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
+          "login": "Peri-Bloom",
+          "url": "https://github.com/Peri-Bloom"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn85urXel",
+      "title": "Js apis",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-06T19:55:41Z",
+      "number": 6,
+      "changedFiles": 10,
+      "additions": 307,
+      "deletions": 113,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLQLbKs5ujXnw",
+      "title": "Decorators",
+      "url": "https://github.com/atongjonathan/SGBot/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-05-04T22:17:52Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 228,
+      "deletions": 61,
+      "baseRepository": {
+        "name": "SGBot",
+        "url": "https://github.com/atongjonathan/SGBot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn85shCvX",
+      "title": "Rapid",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-04-12T17:32:13Z",
+      "number": 5,
+      "changedFiles": 39,
+      "additions": 928,
+      "deletions": 1385,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn85saMkz",
+      "title": "Merging realdata to rapid",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-04-11T21:10:22Z",
+      "number": 4,
+      "changedFiles": 4,
+      "additions": 38,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn85rKkSU",
+      "title": "Mpesa",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-03-29T13:09:23Z",
+      "number": 3,
+      "changedFiles": 10,
+      "additions": 607,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn85rKdBX",
+      "title": "Updates",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-03-29T12:53:53Z",
+      "number": 2,
+      "changedFiles": 1946,
+      "additions": 1689,
+      "deletions": 498985,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLUsGn85oZrZZ",
+      "title": "feat: logging with api improvements",
+      "url": "https://github.com/atongjonathan/Django-Portal/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-03-01T12:01:15Z",
+      "number": 1,
+      "changedFiles": 13,
+      "additions": 165,
+      "deletions": 1654,
+      "baseRepository": {
+        "name": "Django-Portal",
+        "url": "https://github.com/atongjonathan/Django-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKggxfM5l1Vqp",
+      "title": "feat: preview",
+      "url": "https://github.com/atongjonathan/Spotify-bot/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2024-02-02T13:43:03Z",
+      "number": 4,
+      "changedFiles": 5,
+      "additions": 428,
+      "deletions": 412,
+      "baseRepository": {
+        "name": "Spotify-bot",
+        "url": "https://github.com/atongjonathan/Spotify-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=c77bf52cf71a8ee51790918cbb478fe8c66645d4&v=4",
+          "login": "atongjonathan",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOKggxfM5i-38a",
       "title": "requirements.txt revert",
       "url": "https://github.com/atongjonathan/Spotify-bot/pull/3",
@@ -102,7 +627,7 @@
       }
     }
   ],
-  "merged": 4,
+  "merged": 25,
   "open": 0,
-  "totalCount": 4
+  "totalCount": 25
 }
