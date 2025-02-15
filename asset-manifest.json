@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.a9d6b6af.css",
-    "main.js": "./static/js/main.fa46246c.js",
+    "main.css": "./static/css/main.21ea7a89.css",
+    "main.js": "./static/js/main.8bea0b11.js",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/jona.png": "./static/media/jona.bb6d1796ac08aa220d8d.png",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -36,6 +36,7 @@
     "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
+    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/manOnTable.svg": "./static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -68,11 +69,11 @@
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.a9d6b6af.css.map": "./static/css/main.a9d6b6af.css.map",
-    "main.fa46246c.js.map": "./static/js/main.fa46246c.js.map"
+    "main.21ea7a89.css.map": "./static/css/main.21ea7a89.css.map",
+    "main.8bea0b11.js.map": "./static/js/main.8bea0b11.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9d6b6af.css",
-    "static/js/main.fa46246c.js"
+    "static/css/main.21ea7a89.css",
+    "static/js/main.8bea0b11.js"
   ]
 }
