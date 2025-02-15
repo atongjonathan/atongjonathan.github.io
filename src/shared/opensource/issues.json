@@ -1,6 +1,47 @@
 {
-  "closed": 0,
-  "data": [],
-  "open": 0,
-  "totalCount": 0
+  "closed": 1,
+  "data": [
+    {
+      "id": "I_kwDOM7YwzM6qMXOv",
+      "closed": true,
+      "title": "Blank white screen on old browser",
+      "createdAt": "2025-02-15T09:37:48Z",
+      "url": "https://github.com/atongjonathan/SG-Uploads/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "SG-Uploads",
+        "url": "https://github.com/atongjonathan/SG-Uploads",
+        "owner": {
+          "login": "atongjonathan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=0f85bed5d63c34a39ce38a04697c2d0e53eabbdc&v=4",
+          "url": "https://github.com/atongjonathan"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEVNRX86aUnYd",
+      "closed": false,
+      "title": "Reloading the page does not persist logged-in users v2",
+      "createdAt": "2024-10-15T15:14:02Z",
+      "url": "https://github.com/react-auth-kit/react-auth-kit/issues/1874",
+      "number": 1874,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-auth-kit",
+        "url": "https://github.com/react-auth-kit/react-auth-kit",
+        "owner": {
+          "login": "react-auth-kit",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/70307303?v=4",
+          "url": "https://github.com/react-auth-kit"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 2
 }

@@ -1,8 +1,13 @@
 {
   "data": [
     {
-      "login": "me50",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25274013?v=4",
+      "login": "react-auth-kit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70307303?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Peri-Bloom",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
       "__typename": "Organization"
     }
   ]

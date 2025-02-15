@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable web solutions that make an impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1LZr2qjFNq9g2QYHtltC6ySSrPKRgSTb7/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1YekviZZ5WU5O_2T8hDyyvfk1AUvzh2Qc/view?usp=sharing",
+  portfolio_repository: "https://github.com/atongjonathan/masterPortfolio",
   githubProfile: "https://github.com/atongjonathan",
 };
 
