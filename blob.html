@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Blob Example</title>
+</head>
+<body>
+
+<h1>Video Blob Example</h1>
+<video id="videoElement" controls width="600">
+    Your browser does not support the video tag.
+</video>
+
+<script>
+// Function to fetch video from the URL and serve it as a Blob
+async function fetchVideoAsBlob(videoUrl) {
+    try {
+        // Start the video fetch with range requests (getting the first few bytes)
+        const response = await fetch(videoUrl, {
+            headers: {
+                'Range': 'bytes=0-1024000'  // Fetch the first 1MB of the video
+            }
+        });
+
+        // Check if the response is valid
+        if (!response.ok && response.status !== 206) {
+            throw new Error('Failed to fetch video chunk');
+        }
+
+        // Convert the response into a Blob
+        const blob = await response.blob();
+
+        // Create a blob URL
+        const videoBlobUrl = URL.createObjectURL(blob);
+
+        // Set the video source to the blob URL
+        const videoElement = document.getElementById('videoElement');
+        videoElement.src = videoBlobUrl;
+
+        // Optionally, play the video automatically
+        videoElement.play();
+
+        // Now, fetch the remaining video content in chunks
+        fetchRemainingChunks(videoUrl);
+    } catch (error) {
+        console.error('Error fetching the video:', error);
+    }
+}
+
+// Function to fetch remaining chunks of the video
+async function fetchRemainingChunks(videoUrl) {
+    const videoElement = document.getElementById('videoElement');
+
+    // You can use a similar approach for subsequent chunks (e.g., next 1MB)
+    let startByte = 1024001; // Starting point for the next chunk
+    const chunkSize = 1024000; // Size of each chunk (1MB)
+
+    try {
+        while (startByte < 1450078981) { // Use the full content-length here
+            const response = await fetch(videoUrl, {
+                headers: {
+                    'Range': `bytes=${startByte}-${startByte + chunkSize - 1}`
+                }
+            });
+
+            if (!response.ok && response.status !== 206) {
+                console.error('Failed to fetch next video chunk');
+                break;
+            }
+
+            // Convert each chunk to a Blob and append it to the video source
+            const chunkBlob = await response.blob();
+            const newBlobUrl = URL.createObjectURL(chunkBlob);
+            console.log(newBlobUrl);
+            videoElement.src = newBlobUrl; // Set the chunk as the new video source
+
+            // Update the start byte for the next chunk
+            startByte += chunkSize;
+        }
+    } catch (error) {
+        console.error('Error fetching video chunks:', error);
+    }
+}
+
+// Example usage - replace with your direct video URL
+const directVideoUrl = 'https://sguploads.atongjona.com/dl/67af1e069c3bfac884eca0d8'; // Replace with your URL
+fetchVideoAsBlob(directVideoUrl);
+
+</script>
+
+</body>
+</html>
