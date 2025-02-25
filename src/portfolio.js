@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Jonathan's Portfolio",
     type: "website",
-    url: "https://atongjonathan.github.io/",
+    url: "https://atongjona.com",
   },
 };
 
@@ -45,13 +45,13 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://atongjonathan.github.io/website/",
+    link: "https://www.youtube.com/@atongjona",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:atongjonathan@hmail.com",
+    link: "mailto:info@atongjona.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -237,15 +237,6 @@ const certifications = {
       alt_name: "Creative Online School",
       color_code: "#191717",
     },
-    // {
-    //   title: "Complete Responsive Web Development",
-    //   subtitle: "- Creative Online School",
-    //   logo_path: "creative.jpg",
-    //   certificate_link:
-    //     "https://www.udemy.com/certificate/UC-7f89ce7f-792e-43f3-9369-289f05b496b6/",
-    //   alt_name: "Creative Online School",
-    //   color_code: "#191717",
-    // },
   ],
 };
 
@@ -271,6 +262,20 @@ const experience = {
           description:
             "Employed Microsoft Dynamics AX expertise to streamline inventory management, sales operations, and record-keeping for enhanced efficiency. Proactively addressed technical concerns, delivering comprehensive solutions at the Point of Sale, resulting in improved customer experiences and heightened satisfaction.",
           color: "#0879bf",
+        },
+        {
+          title: "Web Developer",
+          company: "Peri Bloom",
+          company_url: "https://peri-bloom.com",
+          logo_path: "pb.png",
+          duration: "June 2024 - Present",
+          location: "Nairobi",
+          description:
+            "Integration of different healthcare standards into the organization's Electronic Health\
+Record (EHR) system, enabling better interoperability between various healthcare\
+providers operations, improve patient data management, and streamline business\
+processes.",
+          color: "#2cd889",
         },
       ],
     },
@@ -326,13 +331,13 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "",
-      name: "RSS Poster",
-      createdAt: "2023-03-06T16:26:54Z",
-      description: "Automatically post articles to a channel from RSS feeds",
-      url: "https://t.me/sg_gpt_bot",
-    },
+    // {
+    //   id: "interoperability",
+    //   name: "Interoperability.",
+    //   createdAt: "2024-09-25T16:26:54Z",
+    //   description: "Discussing interoperability in healthcare",
+    //   url: "https://peri-bloom.com/interoperability/",
+    // },
   ],
 };
 
@@ -345,16 +350,16 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
   blogSection: {
-    title: "Hobby",
+    title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to post news articles that create awareness on reader on what is going on in the world.",
-    link: "https://t.me/citizentvdigital",
+      "For individual fundamental empowerment, I like to post news articles that create awareness on reader on what is going on in the healthcare world.",
+    link: "https://peri-bloom.com/interoperability/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle: "Komarock, Spine Road Nairobi, Kenya",
-    locality: "Kanodar",
+    locality: "Nairobi",
     country: "KE",
     region: "Nairobi",
     postalCode: "00100",

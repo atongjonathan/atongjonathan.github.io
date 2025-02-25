@@ -2,6 +2,31 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOM2beU86MDDC1",
+      "title": "Users",
+      "url": "https://github.com/Peri-Bloom/periEBASE/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110544038?u=0f85bed5d63c34a39ce38a04697c2d0e53eabbdc&v=4",
+        "url": "https://github.com/atongjonathan",
+        "login": "atongjonathan"
+      },
+      "createdAt": "2025-02-21T13:08:51Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 15,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "periEBASE",
+        "url": "https://github.com/Peri-Bloom/periEBASE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139923671?v=4",
+          "login": "Peri-Bloom",
+          "url": "https://github.com/Peri-Bloom"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOM2beU86LMUfZ",
       "title": "Users",
       "url": "https://github.com/Peri-Bloom/periEBASE/pull/5",
@@ -952,7 +977,7 @@
       }
     }
   ],
-  "merged": 38,
+  "merged": 39,
   "open": 0,
-  "totalCount": 38
+  "totalCount": 39
 }
