@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c1743adb.css",
-    "main.js": "/static/js/main.e8ecc73e.js",
+    "main.js": "/static/js/main.f552b3e1.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/jona.png": "/static/media/jona.bb6d1796ac08aa220d8d.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -64,16 +64,16 @@
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
     "static/media/tilesandcarpet.svg": "/static/media/tilesandcarpet.027d6917ae30906d6160.svg",
-    "static/media/sparepap.svg": "/static/media/sparepap.c8e2949d520baa1abe6c.svg",
+    "static/media/sparepap.svg": "/static/media/sparepap.c0ec507bc82bf8890796.svg",
     "index.html": "/index.html",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.c1743adb.css.map": "/static/css/main.c1743adb.css.map",
-    "main.e8ecc73e.js.map": "/static/js/main.e8ecc73e.js.map"
+    "main.f552b3e1.js.map": "/static/js/main.f552b3e1.js.map"
   },
   "entrypoints": [
     "static/css/main.c1743adb.css",
-    "static/js/main.e8ecc73e.js"
+    "static/js/main.f552b3e1.js"
   ]
 }
